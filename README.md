@@ -3,6 +3,20 @@
 A fully responsive e-commerce product page built using **React** for the frontend and **Strapi** for the backend. This project fulfills all the core requirements outlined in the "Web Developer Task" assignment PDF, showcasing frontend and backend integration, dynamic UI/UX, and a functional shopping cart system.
 
 ---
+## 📸 Screenshots
+
+> Add screenshots in a `/screenshots` folder and link them like below:
+
+![Product Listing Page](screenshots/listedproducts.png)  
+![Cart Page](screenshots/Cart.png)  
+![Mobile Responsive View](screenshots/responsive.png)
+![NavBar](screenshots/navbar.png)
+![Search Page](screenshots/search.png)
+![Single Product Page](screenshots/singleproduct.png)
+![Starpi for Category](screenshots/strapi-category.png)
+![Starpi for Product](screenshots/strapi-product.png)
+
+---
 
 ## 📌 Features
 
