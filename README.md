@@ -5,29 +5,16 @@ A fully responsive e-commerce product page built using **React** for the fronten
 ---
 ## 📸 Screenshots
 
-<h3>Product Listing Page</h3>
+
 ![Product Listing Page](screenshots/listedproducts.png)  
-
-<h3>Cart Page</h3>
 ![Cart Page](screenshots/Cart.png)  
-
-<h3>Mobile Responsive View</h3>
 ![Mobile Responsive View](screenshots/responsive.png)
-
-<h3>NavBar & Banner</h3>
 ![NavBar](screenshots/navbar.png)
-
-<h3>Search Page</h3>
 ![Search Page](screenshots/search.png)
-
-<h3>Single Product Page</h3>
 ![Single Product Page](screenshots/singleproduct.png)
-
-<h3>Starpi for Category</h3>
 ![Starpi for Category](screenshots/strapi-category.png)
-
-<h3>Starpi for Product</h3>
 ![Starpi for Product](screenshots/strapi-product.png)
+
 
 ---
 
