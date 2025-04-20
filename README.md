@@ -5,8 +5,6 @@ A fully responsive e-commerce product page built using **React** for the fronten
 ---
 ## 📸 Screenshots
 
-> Add screenshots in a `/screenshots` folder and link them like below:
-
 ![Product Listing Page](screenshots/listedproducts.png)  
 ![Cart Page](screenshots/Cart.png)  
 ![Mobile Responsive View](screenshots/responsive.png)
@@ -59,9 +57,11 @@ A fully responsive e-commerce product page built using **React** for the fronten
 - npm or yarn
 - Strapi CLI: `npm install strapi@latest -g`
 
-### 📦 Frontend Setup
+### 📦 Frontend Setup &⚙️ Backend Setup (Strapi)
 
 ```bash
+#frontend
+
 # Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
@@ -72,7 +72,8 @@ npm install
 # Start the React app
 npm start
 
-#⚙️ Backend Setup (Strapi)
+-----------------------------------------
+#backend
 
 # Navigate to backend directory
 cd strapi-backend
